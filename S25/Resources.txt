@@ -1,0 +1,9 @@
+Vue CLI 3 Summary
+Section 25, Lecture 378
+In this course, I used Vue CLI 2 - this section dives into the newer Vue CLI 3.
+
+Important: You can absolutely continue using the Vue CLI 2, it's not broken, insecure or anything like that. On the other hand, you can also use all the code as shown in this course with the Vue CLI 3. Because only the CLI got updated, NOT Vue itself! The syntax is still 100% the same!
+
+In the lectures of this section, I show you how to install and use the new CLI and how to fall back to the "old" one (Vue CLI 2) if you want to.
+
+Also have a look at the official Vue CLI 3 announcement article for a quick overview of all its coolest features: https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb
